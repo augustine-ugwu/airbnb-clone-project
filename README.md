@@ -79,3 +79,29 @@ Understanding color schemes, font styles, and layout structures ensures that the
 | **DevOps Engineers**    | Handle CI/CD, manage server deployments and environment                    |
 | **Product Owner**       | Define product features, prioritize roadmap, represent stakeholders         |
 | **Scrum Master**        | Facilitate agile ceremonies, remove blockers, promote team efficiency       |
+
+---
+
+## 🧩 UI Component Patterns
+
+### 🔷 Navbar
+- Logo
+- Search bar
+- User profile/navigation
+- Mobile responsive menu
+
+### 🏘️ Property Card
+- Property image
+- Price, location, and rating
+- Favorite button
+- Fully responsive design
+
+### 🦶 Footer
+- Navigation links
+- Company info
+- Social media links
+- Copyright
+
+These components are designed to be **reusable and modular**, ensuring maintainability and scalability across the app.
+
+---
