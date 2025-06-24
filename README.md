@@ -105,3 +105,28 @@ Understanding color schemes, font styles, and layout structures ensures that the
 These components are designed to be **reusable and modular**, ensuring maintainability and scalability across the app.
 
 ---
+
+## ✅ Best Practices
+- **Code Organization:** Modular, scalable, and easy to navigate
+- **Version Control:** Use branches for features; write meaningful commit messages
+- **Responsiveness:** Design mobile-first and test across devices
+- **Accessibility:** Follow WCAG standards to ensure inclusiveness
+- **Documentation:** Keep README and code comments up to date
+- **Testing:** Integrate unit and integration testing for robustness
+
+---
+
+## 🔄 Manual Review
+This repository is subject to manual review to ensure all parts of the planning and setup phase are completed and documented correctly.
+
+---
+
+## 📎 Repository Info
+
+- GitHub Repository: [`airbnb-clone-project`](https://github.com/YOUR_USERNAME/airbnb-clone-project)
+
+---
+
+## 👥 Team Collaboration
+This is a collaborative project where team members are expected to contribute based on defined roles, communicate regularly, and follow agile principles.
+
